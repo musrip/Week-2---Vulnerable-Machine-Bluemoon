@@ -15,7 +15,7 @@
 ### Network Discovery
 netdiscover -r 192.168.56.0/24
 
-[(https://github.com/musrip/Week-2---Vulnerable-Machine-Bluemoon/blob/a87cf68b126cde706a9ba1b999f778d62fc2dcd9/Screenshot%202026-04-19%20004849.png)](https://github.com/musrip/Week-2---Vulnerable-Machine-Bluemoon/blob/a87cf68b126cde706a9ba1b999f778d62fc2dcd9/Screenshot%202026-04-19%20004849.png)
+https://github.com/musrip/Week-2---Vulnerable-Machine-Bluemoon/blob/a87cf68b126cde706a9ba1b999f778d62fc2dcd9/Screenshot%202026-04-19%20004849.png
 ---
 
 ## 🔎 Enumeration
